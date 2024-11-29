@@ -16,7 +16,7 @@ This project implements an embedded system based on the ESP32 board to monitor a
 
 **Simulation:**
 
-[I]
+![I](https://github.com/MAzewail/Real-time-sterilization-machine-processes-recording/blob/main/Simulation.png)
 
 **Hardware Components:**
 

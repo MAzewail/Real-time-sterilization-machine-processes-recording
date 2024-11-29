@@ -1,6 +1,5 @@
 # Real-time-sterilization-machine-processes-recording
 
-**Here's a GitHub repository README.md draft for your embedded system project:**
 
 **Project Title:** Embedded System for Sterilization Machine Process Monitoring
 
@@ -17,7 +16,7 @@ This project implements an embedded system based on the ESP32 board to monitor a
 
 **Simulation:**
 
-[Insert a link to your project simulation video or a brief description of the simulation setup and functionality.]
+[I]
 
 **Hardware Components:**
 
@@ -35,7 +34,7 @@ This project implements an embedded system based on the ESP32 board to monitor a
 
 **Wiring Diagram:**
 
-[Insert a clear wiring diagram showing connections between the ESP32, SD card module, limit switch, and power supply.]
+[In]
 
 **Code Structure:**
 
@@ -63,19 +62,3 @@ This project implements an embedded system based on the ESP32 board to monitor a
 **Contributions:**
 
 Contributions to this project are welcome! Feel free to fork the repository and submit pull requests for improvements or bug fixes.
-
-**License:**
-
-[Specify the license for your project, e.g., MIT, GPL, etc.]
-
-**Remember to replace the placeholders with your actual simulation details, wiring diagram, code structure, and specific instructions.**
-
-**Additional Tips:**
-
-* Use clear and concise language in your documentation.
-* Include comments in your code to explain the functionality.
-* Test your system thoroughly to ensure it works as expected.
-* Consider using version control to manage your code and track changes.
-* Share your project with the community and collaborate with other developers.
-
-By following these guidelines, you can create a well-documented and maintainable GitHub repository for your embedded system project.

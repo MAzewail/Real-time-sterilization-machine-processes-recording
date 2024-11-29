@@ -41,7 +41,6 @@ This project implements an embedded system based on the ESP32 board to monitor a
 * **main.cpp:** Main program file containing the core logic for reading the limit switch, recording data, and writing to the SD card.
 * **SD_card.cpp:** Functions for initializing and writing to the SD card.
 * **timekeeping.cpp:** Functions for handling timekeeping and date calculations.
-* **(Optional) Wi-Fi.cpp:** Functions for Wi-Fi connectivity and data transmission (if applicable).
 
 **Usage:**
 
